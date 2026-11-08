@@ -1,6 +1,5 @@
 # Hi, I'm Izzul
 
-Software Engineering student at SIT, interested in secure software development and AI/ML.
+Software Engineering student at SIT.
 
-## Tech stack
-Python · JavaScript · React · Flask · PostgreSQL · Docker
+<img src="pixel-cat.svg" width="100%" alt="pixel cat">
